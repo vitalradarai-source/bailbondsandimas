@@ -42,7 +42,7 @@
 | 2026-04-27 | Mon | first-offense-bail-san-dimas | first offense bail bonds San Dimas | First Offense | ⬜ |
 | 2026-04-28 | Tue | felony-vs-misdemeanor-bail-san-dimas | felony vs misdemeanor bail San Dimas | Charge Types | ⬜ |
 | 2026-04-29 | Wed | weapon-charges-bail-san-dimas | weapon charges bail bonds San Dimas | Weapon Charges | ⬜ |
-| 2026-04-30 | Thu | immigration-hold-bail-san-dimas | ICE hold bail questions San Dimas | Immigration | ⬜ |
+| 2026-04-30 | Thu | immigration-hold-bail-san-dimas | ICE hold bail questions San Dimas | Immigration | ✅ published |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
